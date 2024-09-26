@@ -7,4 +7,15 @@
 - adding text using iAWriter; so, yay!  
   (also corrected typo using Obsidian)
 
+- set up the vault as a GitHub repository; here are the steps:  
+	- first copied an existing `.gitignore` from another vault, and created a simple `README.md` file, and then:  
+```shell
+git init
+git add .
+git commit -m "initial commit"
+gh repo create icana --public
+git remote add origin https://github.com/band/icana.git
+git remote -v
+git push -u origin main
+```
 
