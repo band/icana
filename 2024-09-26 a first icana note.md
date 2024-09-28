@@ -19,3 +19,7 @@ git remote -v
 git push -u origin main
 ```
 
+#### 2024-09-27
+- GitHub repo setup seems to work in both Obsidian desktop and mobile
+- also just found a way to put this folder into the Library Locations list  
+
