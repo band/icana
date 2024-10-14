@@ -10,7 +10,7 @@ TODO: find shorter words.
 // wiki ways: pages and links amongst them /
 // inter wiki links: how to specify, how to support two-way linking /
 // how much metadata and property information can links carry? /
-// todo: find current thinking on the kinds of network, or graph, links /
+//- TODO: find current thinking on the kinds of network, or graph, links /
 
 ## an inter-wiki link experiment. 
 - link from <bandstands.praxis101.net> to a node in <anagora.org>. 
